@@ -19,7 +19,13 @@ Meeting Scheduler is a meeting scheduling system based on Spring Boot, designed 
 >IDEA
 
 ## Complete schedule:
-	> Build the framework
+> January 15 - January 31: Preparatory phase. Determine the basic functionality and requirements of the system. Define system architecture, database model and technology selection, including Spring Boot framework and Java language. Set up a development environment, configure database, integrate development tools, and prepare project structure.
+>
+> February 20th - February 28th: Project construction. Create a basic Spring Boot project using Spring Initializr. Design the database table structure and create corresponding entity classes. Configure database connections, logs, security and other related configurations. Build the basic framework of the project, including controller, service layer, data access layer, etc.
+>
+>March 1st - March 20th: Business logic implementation. Implement user registration, login, rights management and other functions. Realize functions such as entering, modifying, and querying student information. Develop functions such as score entry, query, and analysis.
+> 
+> March 21 - March 25: Writing a report.
 
 ## System functions :
 ### Tutor module
